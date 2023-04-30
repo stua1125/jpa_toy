@@ -9,8 +9,8 @@ public class JpashopApplication {
 	public static void main(String[] args) {
 
 		Hello hello = new Hello();
-		hello.setA("init Hello");
-		String a = hello.getA();
+		hello.setData("init Hello");
+		String a = hello.getData();
 		System.out.println(a);
 
 		SpringApplication.run(JpashopApplication.class, args);
