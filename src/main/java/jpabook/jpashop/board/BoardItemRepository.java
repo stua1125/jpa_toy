@@ -1,5 +1,6 @@
-package jpabook.jpashop;
+package jpabook.jpashop.board;
 
+import jpabook.jpashop.board.BoardItem;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

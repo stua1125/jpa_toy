@@ -1,5 +1,7 @@
 package jpabook.jpashop;
 
+import jpabook.jpashop.board.BoardItem;
+import jpabook.jpashop.board.BoardItemRepository;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
