@@ -1,5 +1,6 @@
 # jpa_toy
 java 17, spring boot 3.0.6 version toy project
+spring test automation: Junit5
 
 feature: shop and board
 
